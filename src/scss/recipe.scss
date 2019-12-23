@@ -29,7 +29,7 @@
   }
 
   ol {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 1.2rem;
     margin: 0.5rem;
     width: 70%;
@@ -37,11 +37,38 @@
   }
 
   p {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 1.5rem;
+    text-align: center;
 
     span {
       font-weight: bold;
     }
   }
 }
+
+@media screen and (max-width: 768px) {
+  .recipe {
+    width: 90%;
+
+    h1 {
+      font-size: 1.3rem;
+      margin: 1rem;
+    }
+
+    ol {
+      font-size: 1rem;
+    }
+
+    p {
+      font-size: 1.3rem;
+    }
+
+    img {
+      transform: scale(0.8);
+      margin: 0;
+    }
+  }
+}
+
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');

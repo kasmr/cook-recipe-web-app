@@ -49,3 +49,21 @@
     padding: 3rem;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .App {
+    .search-form {
+      .search-bar {
+        width: 50%;
+        font-size: 1rem;
+      }
+      .search-button {
+        font-size: 1rem;
+      }
+    }
+
+    .recipes {
+      padding: 0;
+    }
+  }
+}

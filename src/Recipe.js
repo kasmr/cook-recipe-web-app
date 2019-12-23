@@ -1,5 +1,5 @@
 import React from 'react';
-import style from './recipe.scss';
+import style from './scss/recipe.scss';
 
 const Recipe = ({ title, calories, image, ingredients }) => {
   return (
@@ -11,7 +11,7 @@ const Recipe = ({ title, calories, image, ingredients }) => {
         ))}
       </ol>
       <p>
-        Amount of Calories: <span>{calories}</span> per 1 servings
+        Amount of Calories: <span>{calories}</span> per serving
       </p>
       <img src={image} alt='' />
     </div>
