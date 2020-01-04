@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/yourreponame/static/css/main.856ec1b9.chunk.css",
-    "main.js": "/yourreponame/static/js/main.e811974f.chunk.js",
-    "main.js.map": "/yourreponame/static/js/main.e811974f.chunk.js.map",
-    "runtime-main.js": "/yourreponame/static/js/runtime-main.8cf6f39e.js",
-    "runtime-main.js.map": "/yourreponame/static/js/runtime-main.8cf6f39e.js.map",
-    "static/js/2.d9da02f8.chunk.js": "/yourreponame/static/js/2.d9da02f8.chunk.js",
-    "static/js/2.d9da02f8.chunk.js.map": "/yourreponame/static/js/2.d9da02f8.chunk.js.map",
-    "index.html": "/yourreponame/index.html",
-    "precache-manifest.71364d6eec552d9d0bef10939b30d227.js": "/yourreponame/precache-manifest.71364d6eec552d9d0bef10939b30d227.js",
-    "service-worker.js": "/yourreponame/service-worker.js",
-    "static/css/main.856ec1b9.chunk.css.map": "/yourreponame/static/css/main.856ec1b9.chunk.css.map",
-    "static/js/2.d9da02f8.chunk.js.LICENSE": "/yourreponame/static/js/2.d9da02f8.chunk.js.LICENSE"
+    "main.css": "/cook-recipe-spa/static/css/main.856ec1b9.chunk.css",
+    "main.js": "/cook-recipe-spa/static/js/main.501a48b1.chunk.js",
+    "main.js.map": "/cook-recipe-spa/static/js/main.501a48b1.chunk.js.map",
+    "runtime-main.js": "/cook-recipe-spa/static/js/runtime-main.50a1ab72.js",
+    "runtime-main.js.map": "/cook-recipe-spa/static/js/runtime-main.50a1ab72.js.map",
+    "static/js/2.d9da02f8.chunk.js": "/cook-recipe-spa/static/js/2.d9da02f8.chunk.js",
+    "static/js/2.d9da02f8.chunk.js.map": "/cook-recipe-spa/static/js/2.d9da02f8.chunk.js.map",
+    "index.html": "/cook-recipe-spa/index.html",
+    "precache-manifest.c894e39e0db738642165665e188517a6.js": "/cook-recipe-spa/precache-manifest.c894e39e0db738642165665e188517a6.js",
+    "service-worker.js": "/cook-recipe-spa/service-worker.js",
+    "static/css/main.856ec1b9.chunk.css.map": "/cook-recipe-spa/static/css/main.856ec1b9.chunk.css.map",
+    "static/js/2.d9da02f8.chunk.js.LICENSE": "/cook-recipe-spa/static/js/2.d9da02f8.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.8cf6f39e.js",
+    "static/js/runtime-main.50a1ab72.js",
     "static/js/2.d9da02f8.chunk.js",
     "static/css/main.856ec1b9.chunk.css",
-    "static/js/main.e811974f.chunk.js"
+    "static/js/main.501a48b1.chunk.js"
   ]
 }
