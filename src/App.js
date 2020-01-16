@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import './scss/App.scss';
 import Recipe from './Recipe';
+import Navbar from './components/layout/Navbar';
 
 function App() {
   const APP_ID = 'cc7f7844';
@@ -36,6 +37,7 @@ function App() {
 
   return (
     <div className='App'>
+      <Navbar />
       <form onSubmit={getSearch} className='search-form'>
         <input
           className='search-bar'

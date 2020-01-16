@@ -12,7 +12,7 @@ const Recipe = ({
   return (
     <div className='recipe'>
       <h1>{title}</h1>
-      <p>{dietLabels}</p>
+      <p>{dietLabels.toString()}</p>
       <ol>
         {ingredients.map(ingredient => (
           <li>{ingredient.text}</li>
